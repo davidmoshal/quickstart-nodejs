@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = () => {
-    return 'Hello Node 2';
+    return 'Hello Node 3';
 };
